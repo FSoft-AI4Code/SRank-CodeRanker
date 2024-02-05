@@ -1,5 +1,4 @@
-# Reural Rankers for Code Generation via Inter-Cluster Modeling
-Anonymous code repository release for paper under review at ICLR 2024 [Neural Rankers for Code Generation via Inter-Cluster](https://openreview.net/pdf?id=fjJcJhIzYx).
+# Neural Rankers for Code Generation via Inter-Cluster Modeling
 
 ## Setup
 ### Installing software environment
